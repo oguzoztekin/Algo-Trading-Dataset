@@ -1,0 +1,305 @@
+<SEC-DOCUMENT>0000950170-24-005158.txt : 20240117
+<SEC-HEADER>0000950170-24-005158.hdr.sgml : 20240117
+<ACCEPTANCE-DATETIME>20240117213942
+ACCESSION NUMBER:		0000950170-24-005158
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20240112
+FILED AS OF DATE:		20240117
+DATE AS OF CHANGE:		20240117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35707
+		FILM NUMBER:		24539990
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35707
+		FILM NUMBER:		24539991
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Liberty Media Corp
+		CENTRAL INDEX KEY:			0001560385
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				371699499
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12300 LIBERTY BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		720-875-5400
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Liberty Spinco, Inc.
+		DATE OF NAME CHANGE:	20121015
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2024-01-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001560385</issuerCik>
+        <issuerName>Liberty Media Corp</issuerName>
+        <issuerTradingSymbol>LSXMA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series A Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2024-01-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>469563</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.4044</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21767997</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series A Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2024-01-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>543977</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.4289</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22311974</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series A Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2024-01-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>189484</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.4886</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22501458</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $30.1700 to $30.5000. The Reporting Persons undertake to provide Liberty Media Corporation (&quot;Liberty&quot;), any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 1 to this Form 4.</footnote>
+        <footnote id="F2">18,193,341 of the total reported shares of Series A Liberty SiriusXM Common Stock are owned as of January 17, 2024 by the following subsidiaries of Berkshire Hathaway Inc. (&quot;Berkshire&quot;): Government Employees Insurance Company (15,432,878), National Fire &amp; Marine Insurance Company (933,391), and National Indemnity Company (1,827,072). As Berkshire is in the chain of ownership of each of these subsidiaries, it may be deemed presently to both beneficially own and have a pecuniary interest in all such shares presently owned by each of these subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, such shares presently owned by each such subsidiary. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">4,308,117 of the total reported shares of Series A Liberty SiriusXM Common Stock are owned as of January 17, 2024 by the following pension plans of Berkshire's subsidiaries: Berkshire Hathaway Consolidated Pension Plan (2,359,919), BNSF Master Retirement Trust (936,000), and Precision Castparts Corp. Master Trust (1,012,198). Each of Berkshire, Mr. Buffett and these pension plans disclaims beneficial ownership in such shares.</footnote>
+        <footnote id="F4">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $30.2900 to $30.5000. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 4 to this Form 4.</footnote>
+        <footnote id="F5">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $30.1900 to $30.5000. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 5 to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett (on behalf of himself and each other reporting person hereunder)</signatureName>
+        <signatureDate>2024-01-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

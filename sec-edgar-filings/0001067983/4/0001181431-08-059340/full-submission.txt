@@ -1,0 +1,324 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KgGueB4PI3CjrKFDBwTnvNMUvHvy1CMuqNP0r6Tlz5YwFkxmIkOgCyQZu+T3wvnq
+ la4AOY8WmxmLKy+ZXY2udQ==
+
+<SEC-DOCUMENT>0001181431-08-059340.txt : 20081103
+<SEC-HEADER>0001181431-08-059340.hdr.sgml : 20081103
+<ACCEPTANCE-DATETIME>20081103144809
+ACCESSION NUMBER:		0001181431-08-059340
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20081031
+FILED AS OF DATE:		20081103
+DATE AS OF CHANGE:		20081103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WHITE MOUNTAINS INSURANCE GROUP LTD
+		CENTRAL INDEX KEY:			0000776867
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				942708455
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 SOUTH MAIN ST
+		CITY:			HANOVER
+		STATE:			NH
+		ZIP:			03755
+		BUSINESS PHONE:		603 640 2200
+
+	MAIL ADDRESS:	
+		STREET 1:		80 SOUTH MAIN STREET
+		CITY:			HANOVER
+		STATE:			NH
+		ZIP:			03755
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WHITE MOUNTAINS INSURANCE GROUP INC
+		DATE OF NAME CHANGE:	19990603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FUND AMERICAN ENTERPRISES HOLDINGS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FUND AMERICAN COMPANIES INC
+		DATE OF NAME CHANGE:	19920701
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GENERAL REINSURANCE CORP
+		CENTRAL INDEX KEY:			0000040799
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		081157160
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 STEAMBOAT ROAD
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GENERAL RE CORP
+		CENTRAL INDEX KEY:			0000317745
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		081157161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FINANCIAL CENTRE P O BOX 10351
+		STREET 2:		695 EAST MAIN STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06904-2351
+		BUSINESS PHONE:		2033285000
+
+	MAIL ADDRESS:	
+		STREET 1:		FINANCIAL CENTRE
+		STREET 2:		P O BOX 10350
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06904-2350
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		081157162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		081157163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd221969.xml
+<DESCRIPTION>FORM 4 FOR BH SALE OF WTM STOCK
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2008-10-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000776867</issuerCik>
+        <issuerName>WHITE MOUNTAINS INSURANCE GROUP LTD</issuerName>
+        <issuerTradingSymbol>WTM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000317745</rptOwnerCik>
+            <rptOwnerName>GENERAL RE CORP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000040799</rptOwnerCik>
+            <rptOwnerName>GENERAL REINSURANCE CORP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares, $1.00 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2008-10-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1634921</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>89279</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On October 31, 2008, General Reinsurance Corporation exchanged 1,634,921 common shares of White Mountains Insurance Group, Ltd. (?WTM?), at an exchange value of $485.00 per share, for 100% of the common stock of a subsidiary of WTM that holds Commercial Casualty Insurance Company, International American Group, Inc., and approximately $708 million in cash, pursuant to an Exchange Agreement, dated as of March 8, 2008, by and among Berkshire Hathaway Inc. (?Berkshire?), General Reinsurance Corporation (?General Reinsurance?), WTM, and Railsplitter Holdings Corporation.</footnote>
+        <footnote id="F2">These securities are owned directly by General Reinsurance, which is a wholly owned subsidiary of General Re Corporation (?Gen Re?), which is a wholly owned subsidiary of Berkshire.  Gen Re and Berkshire are indirect beneficial owners of the reported securities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Berkshire Hathaway Inc., by Marc D. Hamburg</signatureName>
+        <signatureDate>2008-11-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

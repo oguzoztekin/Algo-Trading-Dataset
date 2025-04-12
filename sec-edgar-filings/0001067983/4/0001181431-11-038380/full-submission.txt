@@ -1,0 +1,333 @@
+<SEC-DOCUMENT>0001181431-11-038380.txt : 20110628
+<SEC-HEADER>0001181431-11-038380.hdr.sgml : 20110628
+<ACCEPTANCE-DATETIME>20110628135452
+ACCESSION NUMBER:		0001181431-11-038380
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110624
+FILED AS OF DATE:		20110628
+DATE AS OF CHANGE:		20110628
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04720
+		FILM NUMBER:		11935238
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04720
+		FILM NUMBER:		11935239
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESCO FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000105729
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				952109453
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		301 EAST COLORADO BLVD
+		STREET 2:		SUITE 300
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91101
+		BUSINESS PHONE:		626-585-6700
+
+	MAIL ADDRESS:	
+		STREET 1:		301 EAST COLORADO BLVD
+		STREET 2:		SUITE 300
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91101-1954
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BCS Holdings, LLC
+		CENTRAL INDEX KEY:			0000012733
+		STANDARD INDUSTRIAL CLASSIFICATION:	SUGAR & CONFECTIONERY PRODUCTS [2060]
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04720
+		FILM NUMBER:		11935236
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BLUE CHIP STAMPS
+		DATE OF NAME CHANGE:	19990325
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OBH LLC
+		CENTRAL INDEX KEY:			0000109694
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04720
+		FILM NUMBER:		11935237
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		STREET 2:		SUITE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		(402) 978-5423
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		STREET 2:		SUITE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	OBH INC
+		DATE OF NAME CHANGE:	20030130
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC/DE
+		DATE OF NAME CHANGE:	19990520
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd316297.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-06-24</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000105729</issuerCik>
+        <issuerName>WESCO FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>WSC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000109694</rptOwnerCik>
+            <rptOwnerName>OBH LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET, SUITE 1440</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000012733</rptOwnerCik>
+            <rptOwnerName>BCS Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-06-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1416720</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote 4.</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquired in connection with the Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated as of February 4, 2011, and amended on April 15, 2011, by and among Berkshire Hathaway Inc., a Delaware corporation (&quot;Berkshire&quot;), Montana Acquisitions, LLC (&quot;Merger Sub&quot;), a Delaware limited liability company and a direct wholly owned subsidiary of BCS Holdings, LLC (&quot;BCS Holdings&quot;), and Wesco Financial Corporation (&quot;Wesco&quot;).</footnote>
+        <footnote id="F2">Upon completion of the merger of Wesco with and into Merger Sub (the &quot;Merger&quot;), each share of Wesco common stock (other than shares owned by the Reporting Persons) was converted into the right to receive an amount, either in cash or Berkshire Class B common stock, par value $0.0033 per share, at the election of the shareholder, equal to $385.00, calculated in accordance with the Merger Agreement.</footnote>
+        <footnote id="F3">Each outstanding share of Wesco common stock was canceled in the Merger.</footnote>
+        <footnote id="F4">BCS Holdings is a subsidiary of OBH LLC (&quot;OBH&quot;), and OBH is a subsidiary of Berkshire. As OBH and Berkshire are each in the chain of ownership of BCS Holdings, each of OBH and Berkshire may be deemed to both beneficially own and have a pecuniary interest in all securities of Wesco acquired in the Merger.  Warren E. Buffett, as the controlling shareholder of Berkshire, may be deemed to beneficially own, but only to the extent he has a pecuniary interest in, the shares of Wesco common stock acquired in the Merger. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Berkshire Hathaway, Inc., by Marc D. Hamburg</signatureName>
+        <signatureDate>2011-06-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

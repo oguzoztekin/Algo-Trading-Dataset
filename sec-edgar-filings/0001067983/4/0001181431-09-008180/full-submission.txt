@@ -1,0 +1,354 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RjZB010huz8oS9/TCbKD0hvFu4TMlVmw4Ro+bZ2a4G4N9VzzUaB5D8Mszf0v312B
+ vJvE3BmRMr5FJevx30wIhQ==
+
+<SEC-DOCUMENT>0001181431-09-008180.txt : 20090211
+<SEC-HEADER>0001181431-09-008180.hdr.sgml : 20090211
+<ACCEPTANCE-DATETIME>20090211193344
+ACCESSION NUMBER:		0001181431-09-008180
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090209
+FILED AS OF DATE:		20090211
+DATE AS OF CHANGE:		20090211
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08864
+		FILM NUMBER:		09591298
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OBH INC
+		CENTRAL INDEX KEY:			0000109694
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08864
+		FILM NUMBER:		09591300
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC/DE
+		DATE OF NAME CHANGE:	19990520
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC /DE/
+		DATE OF NAME CHANGE:	19920703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08864
+		FILM NUMBER:		09591299
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			USG CORP
+		CENTRAL INDEX KEY:			0000757011
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONCRETE GYPSUM  PLASTER PRODUCTS [3270]
+		IRS NUMBER:				363329400
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 WEST ADAMS STREET
+		STREET 2:		DEPARTMENT 188
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+		BUSINESS PHONE:		312-606-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		DEPARTMENT #188
+		STREET 2:		550 WEST ADAMS STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NATIONAL INDEMNITY CO
+		CENTRAL INDEX KEY:			0000314943
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08864
+		FILM NUMBER:		09591297
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3024 HARNEY ST
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131-3580
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3024 HARNEY ST
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd232358.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2009-02-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000757011</issuerCik>
+        <issuerName>USG CORP</issuerName>
+        <issuerTradingSymbol>USG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000109694</rptOwnerCik>
+            <rptOwnerName>OBH INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000314943</rptOwnerCik>
+            <rptOwnerName>NATIONAL INDEMNITY CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3024 HARNEY STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>10% Contingent Convertible Senior Notes due 2018</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2009-02-09</value>
+                <footnoteId id="F2"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>300000000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>300000000</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2009-02-09</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2018-11-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26315790</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>300000000</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes 4, 5</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 10% Contingent Convertible Senior Notes due 2018 (&quot;Notes&quot;) are convertible into shares of Common Stock, $0.10 par value (&quot;Shares&quot;) at an initial conversion price of $11.40 per share, subject to adjustment under certain circumstances.</footnote>
+        <footnote id="F2">Following stockholder approval of the issuance of Shares upon conversion of the Notes at a special meeting of stockholders held on February 9, 2009, the Notes became convertible into Shares at the option of the holder thereof at any time prior to the close of business on the business day immediately preceding the final maturity date of the Notes (December 1, 2018), unless the Notes are earlier repurchased or redeemed by the Issuer.</footnote>
+        <footnote id="F3">Subject to adjustment.</footnote>
+        <footnote id="F4">$160 million aggregate principal amount of Notes is held by Berkshire Hathaway Life Insurance Company of Nebraska (&quot;BH Nebraska&quot;), $90 million aggregate principal amount of Notes is held by Berkshire Hathaway Assurance Corporation (&quot;BH Assurance&quot;), and $50 million aggregate principal amount of Notes is held by General Re Life Corporation (&quot;General Re Life&quot;).</footnote>
+        <footnote id="F5">(Footnote 4 contd.) As Berkshire Hathaway Inc. (&quot;Berkshire&quot;), OBH, Inc. (&quot;OBH&quot;), and National Indemnity Company (&quot;NICO&quot;) are each in the chain of ownership of BH Nebraska and BH Assurance, each of Berkshire, OBH and NICO may be deemed presently to both beneficially own and have a pecuniary interest in the Notes presently owned by BH Nebraska and BH Assurance. As Berkshire is in the chain of ownership of General Re Life, Berkshire may be deemed presently to both beneficially own and have a pecuniary interest in the Notes presently owned by General Re Life.  Warren E. Buffett, as controlling shareholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the Notes presently owned by BH Nebraska, BH Assurance and General Re Life.  Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Berkshire Hathaway Inc., by Marc D. Hamburg</signatureName>
+        <signatureDate>2009-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

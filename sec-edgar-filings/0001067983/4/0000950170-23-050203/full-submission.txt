@@ -1,0 +1,310 @@
+<SEC-DOCUMENT>0000950170-23-050203.txt : 20230927
+<SEC-HEADER>0000950170-23-050203.hdr.sgml : 20230927
+<ACCEPTANCE-DATETIME>20230927183326
+ACCESSION NUMBER:		0000950170-23-050203
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230925
+FILED AS OF DATE:		20230927
+DATE AS OF CHANGE:		20230927
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04423
+		FILM NUMBER:		231285765
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04423
+		FILM NUMBER:		231285766
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HP INC
+		CENTRAL INDEX KEY:			0000047217
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				941081436
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		6508571501
+
+	MAIL ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEWLETT PACKARD CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-09-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000047217</issuerCik>
+        <issuerName>HP INC</issuerName>
+        <issuerTradingSymbol>HPQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-09-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1415633</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.3662</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>109246541</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-09-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1846526</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.8055</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>107400015</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-09-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1352264</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.6942</value>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>106047751</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $26.2250 to $26.6900. The Reporting Persons undertake to provide HP Inc. (&quot;HP&quot;), any security holder of HP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote 1 to this Form 4.</footnote>
+        <footnote id="F2">The shares of the issuer's common stock reported on this form are held by Berkshire Hathaway Inc. (&quot;Berkshire&quot;) indirectly through the following Berkshire subsidiaries: AmGUARD Insurance Company (437,700), Berkshire Hathaway Homestate Insurance Company (5,850,000), Berkshire Hathaway Specialty Insurance Company (9,738,500), Columbia Insurance Company (15,486,483), Cypress Insurance Company (3,444,000), EastGUARD Insurance Company (291,800), Government Employees Insurance Company (24,448,100), GEICO Marine Insurance Company (374,500), GEICO Secure Insurance Company (3,017,700), General Reinsurance Corporation (16,337,183), Genesis Insurance Corporation (139,600), Medical Protective Company (7,933,000), MLMIC Insurance Company (2,111,800), National Indemnity Company (6,559,985), NorGUARD Insurance Company (1,313,100), Oak River Insurance Company (1,668,000),</footnote>
+        <footnote id="F3">(Continued from footnote 2) Old United Casualty Company (539,400), Old United Life Insurance Company (135,000), Princeton Insurance Company (1,068,000), Redwood Fire and Casualty Insurance Company (3,875,000), U.S. Underwriters Insurance Company (111,700), and WestGUARD Insurance Company (1,167,200).</footnote>
+        <footnote id="F4">As Berkshire is in the chain of ownership of each subsidiary listed, it may be deemed presently to both beneficially own and have a pecuniary interest in all shares presently directly owned by such subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares presently owned by each of these subsidiaries. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein. In addition, in order to avoid double counting, all shares reported as being owned by each subsidiary listed only reflect shares that are owned directly by such subsidiary,</footnote>
+        <footnote id="F5">(Continued from footnote 4) and do not reflect any shares that such subsidiary may be deemed to beneficially own by virtue of ownership or control of any other subsidiary otherwise reported on this form.</footnote>
+        <footnote id="F6">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.7050 to $26.2050. The Reporting Persons undertake to provide HP, any security holder of HP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote 6 to this Form 4.</footnote>
+        <footnote id="F7">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.5750 to $25.9800. The Reporting Persons undertake to provide HP, any security holder of HP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote 7 to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett, on behalf of himself and each other reporting person hereunder</signatureName>
+        <signatureDate>2023-09-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

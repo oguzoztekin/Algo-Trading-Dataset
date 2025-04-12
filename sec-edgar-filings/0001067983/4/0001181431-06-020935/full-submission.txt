@@ -1,0 +1,308 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G6aQAssRSaf99onOHFw000AKDhadwRSxyx+Bp5f51qoCPvXIo8aFS0JN+CZXJhhS
+ ORFUdvuUAwSNGd9V3T0qLA==
+
+<SEC-DOCUMENT>0001181431-06-020935.txt : 20060331
+<SEC-HEADER>0001181431-06-020935.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331132626
+ACCESSION NUMBER:		0001181431-06-020935
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060329
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERIPRISE FINANCIAL INC
+		CENTRAL INDEX KEY:			0000820027
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133180631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50591 AMERIPRISE FINANCIAL CENTER
+		STREET 2:		GENERAL COUNSEL'S OFFICE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55474
+		BUSINESS PHONE:		612-671-4471
+
+	MAIL ADDRESS:	
+		STREET 1:		50591 AMERIPRISE FINANCIAL CENTER
+		STREET 2:		GENERAL COUNSEL'S OFFICE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55474
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN EXPRESS FINANCIAL CORP
+		DATE OF NAME CHANGE:	20030513
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN EXPRESS FINANCIAL ADVISORS
+		DATE OF NAME CHANGE:	19950711
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IDS FINANCIAL CORP/MN/
+		DATE OF NAME CHANGE:	19920703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OBH INC
+		CENTRAL INDEX KEY:			0000109694
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32525
+		FILM NUMBER:		06727167
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC/DE
+		DATE OF NAME CHANGE:	19990520
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERKSHIRE HATHAWAY INC /DE/
+		DATE OF NAME CHANGE:	19920703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32525
+		FILM NUMBER:		06727168
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32525
+		FILM NUMBER:		06727169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd112843.xml
+<DESCRIPTION>FORM 4 FOR REPURCHASE OF STOCK BY AMERIPRISE
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0202</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2006-03-29</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000820027</issuerCik>
+        <issuerName>AMERIPRISE FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>AMP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000109694</rptOwnerCik>
+            <rptOwnerName>OBH INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2006-03-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6400000</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>42.91</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23922137</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>see footnotes 1 &amp; 2.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are owned by the following subsidiaries of Berkshire Hathaway Inc.:  OBH, Inc. (&quot;OBH&quot;) (159,940 shares); National Indemnity Company (&quot;NICO&quot;) (17,651,175 shares); National Fire &amp; Marine Insurance Company (&quot;NFMIC&quot;) (1,598,926 shares); Columbia Insurance Company (&quot;Columbia&quot;) (3,445,080 shares); Wesco-Financial Insurance Company (&quot;WSFIC&quot;) (388,620 shares); Nebraska Furniture Mart (&quot;NFM&quot;) (279,942 shares); Central States Indemnity Company of Omaha (&quot;CSIC&quot;) (174,000 shares); The Fechheimer Brothers Company (&quot;Fechheimer&quot;) (167,966 shares); Borsheim's Jewelry Company (&quot;Borsheim's&quot;) (55,988 shares); and FlightSafety International, Inc. (&quot;FlightSafety&quot;) (500 shares). Each of NICO, NFMIC, Columbia, WSFIC, NFM, CSIC, Fechheimer, Borsheim's, and FlightSafety is a subsidiary of OBH, Inc. (&quot;OBH&quot;).  OBH is a subsidiary of Berkshire Hathaway Inc. (&quot;Berkshire&quot;).</fo
+otnote>
+        <footnote id="F2">As OBH and Berkshire are each in the chain of ownership of NICO, NFMIC, Columbia, WSFIC, NFM, CSIC, Fechheimer, Borsheim's and FlightSafety, each of Berkshire and OBH may be deemed presently to both beneficially own and have a pecuniary interest in all shares of Ameriprise common stock presently owned by each such subsidiary.  Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares of Ameriprise common stock presently owned by each such subsidiary and by OBH. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">On March 29, 2006, Ameriprise Financial, Inc. (&quot;Ameriprise&quot;) entered into a Stock Purchase and Sale Agreement (the &quot;Purchase Agreement&quot;) with Warren E. Buffett and Berkshire, to repurchase from Berkshire subsidiaries 6.4 million shares of Ameriprise common stock.  The repurchase transaction was completed on March 29, 2006 following market close, at a price per share equal to the March 29, 2006 closing price on the New York Stock Exchange for a share of Ameriprise common stock of $42.91.  All of the shares that were repurchased pursuant to the Purchase Agreement were previously held by NICO.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc D. Hamburg on behalf of Berkshire Hathaway Inc.</signatureName>
+        <signatureDate>2006-03-31</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett</signatureName>
+        <signatureDate>2006-03-31</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc D. Hamburg on behalf of OBH, Inc.</signatureName>
+        <signatureDate>2006-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

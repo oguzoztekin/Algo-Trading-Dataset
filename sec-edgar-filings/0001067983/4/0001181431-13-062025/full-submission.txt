@@ -1,0 +1,355 @@
+<SEC-DOCUMENT>0001181431-13-062025.txt : 20131209
+<SEC-HEADER>0001181431-13-062025.hdr.sgml : 20131209
+<ACCEPTANCE-DATETIME>20131209195903
+ACCESSION NUMBER:		0001181431-13-062025
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20131205
+FILED AS OF DATE:		20131209
+DATE AS OF CHANGE:		20131209
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAVITA HEALTHCARE PARTNERS INC.
+		CENTRAL INDEX KEY:			0000927066
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISC HEALTH & ALLIED SERVICES, NEC [8090]
+		IRS NUMBER:				510354549
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 16TH STREET
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		3105362506
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 16TH STREET
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAVITA INC
+		DATE OF NAME CHANGE:	20001005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TOTAL RENAL CARE HOLDINGS INC
+		DATE OF NAME CHANGE:	19950524
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TOTAL RENAL CARE INC
+		DATE OF NAME CHANGE:	19940719
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14106
+		FILM NUMBER:		131266865
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14106
+		FILM NUMBER:		131266866
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd397012.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-12-05</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000927066</issuerCik>
+        <issuerName>DAVITA HEALTHCARE PARTNERS INC.</issuerName>
+        <issuerTradingSymbol>DVA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-12-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>529833</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>57.1137</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35676957</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes 5 and 6.</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-12-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600430</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>58.0348</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36277387</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes 5 and 6.</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-12-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>115940</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>58.9617</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36393327</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes 5 and 6.</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-12-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>67967</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.8662</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36461294</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes 5 and 6.</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in mulitple transactions at prices ranging from $56.91 to $57.30. The reporting person undertakes to provide to DaVita HealthCare Partners Inc. (&quot;DaVita HCP&quot;), any security holder of DaVita HCP, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnotes 1-4 to this Form 4.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transaction at prices ranging from $57.72 to $58.26.</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transaction at prices ranging from $58.53 to $59.52.</footnote>
+        <footnote id="F4">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transaction at prices ranging from $59.53 to $60.00.</footnote>
+        <footnote id="F5">18,513,482 of the total reported securities are owned by the following subsidiaries of Berkshire Hathaway Inc. (&quot;Berkshire&quot;): Government Employees Insurance Company (11,208,904), GEICO Indemnity Company (6,795,084), GEICO Advantage Insurance Company (223,398), GEICO Choice Insurance Company (222,842) and GEICO Secure Insurance Company (63,254). As Berkshire is in the chain of ownership of these subsidiaries, it may be deemed presently to both beneficially own and have a pecuniary interest in all shares of Common Stock presently owned by each subsidiary. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares of Common Stock presently owned by each such subsidiary. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F6">17,947,812 of the total reported securities are owned by the following pension plans of Berkshire's subsidiaries: ACME Brick Company Pension Trust (350,000), The Buffalo News Office Pension Plan (150,000), The Buffalo News Mechanical Pension Plan (50,000), The Buffalo News Drivers/Distributors Pension Plan (20,000), The Buffalo News Editorial Pension Plan (250,000), Dexter Pension Plan (200,000), Flightsafety International Inc. Retirement Income Plan (700,000), Fruit of the Loom Pension Trust (1,380,064), GEICO Corporation Pension Plan Trust (2,977,748), Johns Manville Corporation Master Pension Trust (2,750,000), Justin Brands, Inc. Union Pension Plan &amp; Justin Brands, Inc. Pension &amp; Trust (250,000), Scott Fetzer Company Collective Investment Trust (450,000), BNSF Master Retirement Trust (6,850,000) and Lubrizol Corp Master Trust Pension (1,570,000); each of Berkshire, Mr. Buffett and these pension plans disclaims beneficial ownership in such shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Berkshire Hathaway Inc., by Marc D. Hamburg</signatureName>
+        <signatureDate>2013-12-09</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Warren E. Buffett</signatureName>
+        <signatureDate>2013-12-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

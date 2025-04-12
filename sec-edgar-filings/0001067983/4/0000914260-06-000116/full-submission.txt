@@ -1,0 +1,178 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QFBOgFS71r7AYKAYY9FnjxubxmSedfY6la9QLLo/nhMFYU27OLshru/ED+qHoqOb
+ yQ6g+TsKuKeOICtptcBDhQ==
+
+<SEC-DOCUMENT>0000914260-06-000116.txt : 20060620
+<SEC-HEADER>0000914260-06-000116.hdr.sgml : 20060620
+<ACCEPTANCE-DATETIME>20060620165116
+ACCESSION NUMBER:		0000914260-06-000116
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060620
+FILED AS OF DATE:		20060620
+DATE AS OF CHANGE:		20060620
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				470813844
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CHACE MALCOLM G
+		CENTRAL INDEX KEY:			0001133224
+		STATE OF INCORPORATION:			RI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14905
+		FILM NUMBER:		06915649
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE TURKS HEAD PLACE
+		CITY:			PROVIDENCE
+		STATE:			RI
+		ZIP:			02903
+		BUSINESS PHONE:		4014565000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PROVIDENCE WASHINGTON PLZ
+		STREET 2:		4TH FL
+		CITY:			PROVIDENCE
+		STATE:			RI
+		ZIP:			02903
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0202</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2006-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001067983</issuerCik>
+        <issuerName>BERKSHIRE HATHAWAY INC</issuerName>
+        <issuerTradingSymbol>BRK.A</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001133224</rptOwnerCik>
+            <rptOwnerName>CHACE MALCOLM G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE PROVIDENCE WASHINGTON PLZ</rptOwnerStreet1>
+            <rptOwnerStreet2>4TH FL</rptOwnerStreet2>
+            <rptOwnerCity>PROVIDENCE</rptOwnerCity>
+            <rptOwnerState>RI</rptOwnerState>
+            <rptOwnerZipCode>02903</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2006-06-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>92300</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1363</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person beneficially owns 1,363 shares of the issuer's Class A Common Stock of which (i) 521 shares are held directly by the reporting person, (ii) 2 shares are held by a trust of which the reporting person is beneficiary, (iii) 97 shares are held by a trust of which the reporting person's spouse is trustee and the reporting person is beneficiary, (iv) 54 shares are held by the reporting person's spouse, (v) 480 shares are held by a trust of which a member of the reporting person's immediate family is trustee and the reporting person is beneficiary and (vi) 209 shares are held by a limited partnership of which the reporting person is a limited partner.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Margaret D. Farrell (Attorney-in-fact for Malcolm G. Chace)</signatureName>
+        <signatureDate>2006-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

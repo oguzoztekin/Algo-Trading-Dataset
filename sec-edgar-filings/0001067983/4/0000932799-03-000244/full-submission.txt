@@ -1,0 +1,170 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UrNKv0a+3yts7q7alZcAN2SBuKWfmXYtdeCfWJra3AhrfmnlBjq/xlKky65UDGDm
+ LuwkcHbtuFnIflyyG8B/ag==
+
+<SEC-DOCUMENT>0000932799-03-000244.txt : 20031219
+<SEC-HEADER>0000932799-03-000244.hdr.sgml : 20031219
+<ACCEPTANCE-DATETIME>20031219143646
+ACCESSION NUMBER:		0000932799-03-000244
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031217
+FILED AS OF DATE:		20031219
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				470813844
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KEOUGH DONALD R /NY
+		CENTRAL INDEX KEY:			0001071098
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14905
+		FILM NUMBER:		031064792
+
+	BUSINESS ADDRESS:	
+		STREET 1:		152 WEST 57TH STREET, 42ND FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2123147325
+
+	MAIL ADDRESS:	
+		STREET 2:		152 WEST 57TH STREET, 42ND FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>keough4_ex.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<!-- - EDGAR Ease Plus 1.0                                   07/25/03  TT    -->
+<ownershipDocument>
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType>
+   <periodOfReport>2003-12-17</periodOfReport>
+   <notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0001067983</issuerCik>
+        <issuerName>BERKSHIRE HATHAWAY INC</issuerName>
+        <issuerTradingSymbol>BRKa</issuerTradingSymbol>
+   </issuer>
+   <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001071098</rptOwnerCik>
+            <rptOwnerName>KEOUGH DONALD R /NY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>152 WEST 57TH STREET, 42ND FL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+         <isDirector>1</isDirector>
+         <isOfficer>0</isOfficer>
+         <isTenPercentOwner>0</isTenPercentOwner>
+         <isOther>0</isOther>
+      </reportingOwnerRelationship>
+   </reportingOwner>
+ <nonDerivativeTable>
+   <nonDerivativeTransaction>
+      <securityTitle>
+         <value>Class A Common Stock</value>
+      </securityTitle>
+      <transactionDate>
+         <value>2003-12-17</value>
+      </transactionDate>
+      <deemedExecutionDate>
+         <value>2003-12-17</value>
+      </deemedExecutionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>P</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>1</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>82400.00</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>8</value>
+            <footnoteId id="F1"/>
+            <footnoteId id="F2"/>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+            <value>I</value>
+         </directOrIndirectOwnership>
+         <natureOfOwnership>
+            <value>owned by spouse</value>
+         </natureOfOwnership>
+      </ownershipNature>
+   </nonDerivativeTransaction>
+ </nonDerivativeTable>
+   <footnotes>
+      <footnote id="F1"> The reporting person disclaims beneficial ownership of the securities held by his spouse, and this report shall not be deemed an admission that the reporting person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose.</footnote>
+
+      <footnote id="F2"> The reporting person, as previously disclosed, is also the direct beneficial owner of 42 shares of the Issuer's Class A Common Stock.</footnote>
+   </footnotes>
+   <ownerSignature>
+      <signatureName>Donald M. Keough</signatureName>
+      <signatureDate>2003-12-18</signatureDate>
+   </ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

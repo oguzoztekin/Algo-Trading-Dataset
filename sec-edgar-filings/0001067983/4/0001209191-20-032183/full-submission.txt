@@ -1,0 +1,778 @@
+<SEC-DOCUMENT>0001209191-20-032183.txt : 20200526
+<SEC-HEADER>0001209191-20-032183.hdr.sgml : 20200526
+<ACCEPTANCE-DATETIME>20200526193935
+ACCESSION NUMBER:		0001209191-20-032183
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200316
+FILED AS OF DATE:		20200526
+DATE AS OF CHANGE:		20200526
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35707
+		FILM NUMBER:		20912419
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35707
+		FILM NUMBER:		20912420
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Liberty Media Corp
+		CENTRAL INDEX KEY:			0001560385
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		IRS NUMBER:				371699499
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12300 LIBERTY BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		720-875-5400
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Liberty Spinco, Inc.
+		DATE OF NAME CHANGE:	20121015
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001560385</issuerCik>
+        <issuerName>Liberty Media Corp</issuerName>
+        <issuerTradingSymbol>LSXMK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series A Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14860360</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>240000</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30850985</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>302798</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>31.4626</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31153783</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>605870</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>32.0842</value>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31759653</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>312928</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>32.3376</value>
+                    <footnoteId id="F8"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32072581</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>795354</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.4365</value>
+                    <footnoteId id="F9"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32867935</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F10"/>
+                <footnoteId id="F11"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+                <footnoteId id="F12"/>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4292304</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-05-18</value>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-05</value>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Liberty SiriusXM Common Stock</value>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4292304</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F14"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F10"/>
+                <footnoteId id="F11"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>383813</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.738</value>
+                    <footnoteId id="F16"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-05-18</value>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-05</value>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Liberty SiriusXM Common Stock</value>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4676117</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F14"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F10"/>
+                <footnoteId id="F11"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>137069</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.7175</value>
+                    <footnoteId id="F17"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-05-18</value>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-05</value>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Liberty SiriusXM Common Stock</value>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4813186</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F14"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F10"/>
+                <footnoteId id="F11"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>195386</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.931</value>
+                    <footnoteId id="F18"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-05-18</value>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-05</value>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Liberty SiriusXM Common Stock</value>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5008572</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F14"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series C Liberty SiriusXM Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F10"/>
+                <footnoteId id="F11"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>460654</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.1388</value>
+                    <footnoteId id="F19"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-05-18</value>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-05</value>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Liberty SiriusXM Common Stock</value>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5469226</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F14"/>
+                    <footnoteId id="F15"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">10,552,243 of the total reported shares of Series A Liberty SiriusXM Common Stock are owned as of May 26, 2020 by the following subsidiaries of Berkshire Hathaway Inc. (&quot;Berkshire&quot;): Government Employees Insurance Company (5,558,855), GEICO Advantage Insurance Company (262,500), GEICO Indemnity Company (1,970,425), National Fire &amp; Marine Insurance Company (933,391), and National Indemnity Company (1,827,072). As Berkshire is in the chain of ownership of each of these subsidiaries, it may be deemed presently to both beneficially own and have a pecuniary interest in all such shares presently owned by each of these subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, such shares presently owned by each such subsidiary. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F2">4,308,117 of the total reported shares of Series A Liberty SiriusXM Common Stock are owned as of May 26, 2020 by the following pension plans of Berkshire's subsidiaries: Berkshire Hathaway Consolidated Pension Plan (1,685,000), BNSF Master Retirement Trust (936,000) and Precision Castparts Corp. Master Trust (1,687,117).  Shares previously reported as being owned by GEICO Corporation Pension Plan Trust (500,000), General Re Corp. Employee Retirement Trust (100,000), Johns Manville Corporation Master Pension Trust (410,000), and Lubrizol Corp Master Trust Pension (150,000) (collectively, the &quot;Merged Entities&quot;) were transferred to Berkshire Hathaway Consolidated Pension Plan in connection with the merger of the Merged Entities with and into Berkshire Hathaway Consolidated Pension Plan.  Each of Berkshire, Mr. Buffett and these pension plans disclaims beneficial ownership in such shares.</footnote>
+        <footnote id="F3">In Berkshire and Warren E. Buffett's Form 4 filing of May 31, 2017, 41,500 shares of Series C Liberty SiriusXM Common Stock were inadvertently reported as being owned by the Benjamin Moore &amp; Company Revised Retirement Income Plan. These shares were in fact owned by the Buffalo News Editorial Pension Plan, in addition to the 133,500 shares of Series C Liberty SiriusXM Common Stock it reported owning in the Form 4 filing of May 31, 2017. On March 16, 2020, Berkshire sold its interest in The Buffalo News, Inc. and therefore is no longer deemed to beneficially own the 240,000 shares of Series C Liberty SiriusXM Common Stock that were directly owned by the Buffalo News Editorial Pension Plan (175,000) and the Buffalo News Office Pension Plan (65,000). On March 16, 2020, the market value of the 240,000 shares of Series C Liberty SiriusXM Common Stock held by these plans was $7,029,600, based on the closing per share price that day.</footnote>
+        <footnote id="F4">23,937,958 of the total reported shares of Series C Liberty SiriusXM Common Stock are owned as of May 26, 2020 by the following subsidiaries of Berkshire: Government Employees Insurance Company (14,920,260), GEICO Advantage Insurance Company (630,000), GEICO Indemnity Company (3,809,650), National Fire &amp; Marine Insurance Company (508,654), and National Indemnity Company (4,069,394). As Berkshire is in the chain of ownership of each of these subsidiaries, it may be deemed presently to both beneficially own and have a pecuniary interest in all such shares presently owned by each of these subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, such shares presently owned by each such subsidiary. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F5">8,929,977 of the total reported shares of Series C Liberty SiriusXM Common Stock are owned as of May 26, 2020 by the following pension plans of Berkshire's subsidiaries: Berkshire Hathaway Consolidated Pension Plan (4,657,488), BNSF Master Retirement Trust (2,326,000), Precision Castparts Corp. Master Trust (1,646,489), Acme Brick Pension Trust (100,000) and Scott Fetzer Collective Investment Trust (200,000). Shares previously reported as being owned by GEICO Corporation Pension Plan Trust (975,000), General Re Corp. Employee Retirement Trust (584,206), Johns Manville Corporation Master Pension Trust (750,000), and Lubrizol Corp Master Trust Pension (150,000) were transferred to Berkshire Hathaway Consolidated Pension Plan in connection with the merger of the Merged Entities with and into Berkshire Hathaway Consolidated Pension Plan. Each of Berkshire, Mr. Buffett and these pension plans disclaims beneficial ownership in such shares.</footnote>
+        <footnote id="F6">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $30.81 to $31.80. The Reporting Persons undertake to provide Liberty Media Corporation (&quot;Liberty&quot;), any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 6 to this Form 4.</footnote>
+        <footnote id="F7">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $31.81 to $32.32. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 7 to this Form 4.</footnote>
+        <footnote id="F8">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $31.84 to $32.65. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 8 to this Form 4.</footnote>
+        <footnote id="F9">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $33.07 to $33.80. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in footnote 9 to this Form 4.</footnote>
+        <footnote id="F10">As described in Liberty's Form S-3ASR filed with the Securities and Exchange Commission on May 14, 2020, Liberty has distributed subscription rights to holders of its Series A and Series C Liberty SiriusXM Common Stock to acquire shares of its Series C Liberty SiriusXM Common Stock (the &quot;Series C Liberty SiriusXM Rights&quot;). In the rights offering, each Series C Liberty SiriusXM Right will entitle the holder to a basic subscription privilege and an oversubscription privilege. Under the basic subscription privilege, each whole Series C Liberty SiriusXM Right will entitle the holder to purchase one share of Liberty's Series C Liberty SiriusXM Common Stock at a subscription price of $25.47. Under the oversubscription</footnote>
+        <footnote id="F11">Continued from footnote 10: privilege, each rightsholder that exercises its basic subscription privilege will have the right to subscribe, at the subscription price, for up to that number of shares of Liberty's Series C Liberty SiriusXM Common Stock which are not purchased by other rightsholders under their basic subscription privilege.</footnote>
+        <footnote id="F12">Pursuant to Rule 16a-9(b), the acquisition of Series C Liberty SiriusXM Rights granted by Liberty on May 15, 2020 is exempt from Section 16 of the Securities Exchange Act of 1934 and is being reported hereto on a voluntary basis.</footnote>
+        <footnote id="F13">As described in Liberty's Form S-3ASR filed with the Securities and Exchange Commission on May 14, 2020, the rights offering commenced on May 18, 2020 and expires on June 5, 2020. Liberty's board of directors may terminate the rights offering for any reason before the expiration time. Liberty may extend the expiration time of the rights offering for any reason and for any length of time beyond June 5, 2020, at the discretion of its board of directors. However, Liberty may not extend the expiration time of the rights offering for more than 25 trading days past the original fourteen trading day subscription period. All exercises of Series C Liberty SiriusXM Rights are irrevocable even if Liberty's board of directors determines to extend the expiration time.</footnote>
+        <footnote id="F14">3,238,635 of the total reported Series C Liberty SiriusXM Rights are owned as of May 26, 2020 by the following subsidiaries of Berkshire: Government Employees Insurance Company (1,922,990), GEICO Advantage Insurance Company (83,806), GEICO Indemnity Company (542,750), National Fire &amp; Marine Insurance Company (135,409), and National Indemnity Company (553,680). As Berkshire is in the chain of ownership of each of these subsidiaries, it may be deemed presently to both beneficially own and have a pecuniary interest in all such rights presently owned by each of these subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, such rights presently owned by each such subsidiary. Mr. Buffett disclaims beneficial ownership of the reported rights except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F15">2,230,591 of the total reported Series C Liberty SiriusXM Rights are owned as of May 26, 2020 by the following pension plans of Berkshire's subsidiaries: Berkshire Hathaway Consolidated Pension Plan (1,668,415), BNSF Master Retirement Trust (249,149), and Precision Castparts Corp. Master Trust (313,027). Each of Berkshire, Mr. Buffett and these pension plans disclaims beneficial ownership in such rights.</footnote>
+        <footnote id="F16">The price reported in Column 8 is a weighted average price. These rights were purchased in multiple transactions at prices ranging from $5.38 to $6.37. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of rights purchased at each separate price within the range set forth in footnote 16 to this Form 4.</footnote>
+        <footnote id="F17">The price reported in Column 8 is a weighted average price. These rights were purchased in multiple transactions at prices ranging from $6.3872 to $6.90. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of rights purchased at each separate price within the range set forth in footnote 17 to this Form 4.</footnote>
+        <footnote id="F18">The price reported in Column 8 is a weighted average price. These rights were purchased in multiple transactions at prices ranging from $6.57 to $7.30. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of rights purchased at each separate price within the range set forth in footnote 18 to this Form 4.</footnote>
+        <footnote id="F19">The price reported in Column 8 is a weighted average price. These rights were purchased in multiple transactions at prices ranging from $7.64 to $8.41. The Reporting Persons undertake to provide Liberty, any security holder of Liberty, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of rights purchased at each separate price within the range set forth in footnote 19 to this Form 4.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett (on behalf of himself and each other reporting person hereunder)</signatureName>
+        <signatureDate>2020-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

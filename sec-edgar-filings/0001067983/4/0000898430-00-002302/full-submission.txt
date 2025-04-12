@@ -1,0 +1,394 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WS8fgBFqAh0UetaxM7B7bz8eXh4PxjmdRaC6A2cut6tOnQJ+2LA7mFNlD+9lFb7m
+ cLjoYJVJNjAGFKfX/LHs5w==
+
+<SEC-DOCUMENT>/in/edgar/work/20000810/0000898430-00-002302/0000898430-00-002302.txt : 20000921
+<SEC-HEADER>0000898430-00-002302.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000898430-00-002302
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000802
+FILED AS OF DATE:		20000810
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JUSTIN INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000054182
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3140
+]		IRS NUMBER:				750102185
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		4
+			SEC ACT:		
+			SEC FILE NUMBER:	000-03041
+			FILM NUMBER:		691863
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2821 W 7TH ST
+				CITY:			FORT WORTH
+				STATE:			TX
+				ZIP:			76107
+				BUSINESS PHONE:		8173365125
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2821 W 7TH ST
+					CITY:			FORT WORTH
+					STATE:			TX
+					ZIP:			76107
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	ACME PRESS BRICK CO
+						DATE OF NAME CHANGE:	19820223
+</FORMER-COMPANY>
+
+						FORMER COMPANY:	
+							FORMER CONFORMED NAME:	ACME BRICK CO
+							DATE OF NAME CHANGE:	19690519
+</FORMER-COMPANY>
+
+							FORMER COMPANY:	
+								FORMER CONFORMED NAME:	FIRST WORTH CORP
+								DATE OF NAME CHANGE:	19680509
+</FORMER-COMPANY>
+</SUBJECT-COMPANY>
+<REPORTING-OWNER>
+
+								COMPANY DATA:	
+									COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+									CENTRAL INDEX KEY:			0001067983
+									STANDARD INDUSTRIAL CLASSIFICATION:	 [6331
+]<RELATIONSHIP>OWNER
+									IRS NUMBER:				470813844
+									STATE OF INCORPORATION:			DE
+									FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+									FILING VALUES:
+										FORM TYPE:		4
+</FILING-VALUES>
+
+										BUSINESS ADDRESS:	
+											STREET 1:		1440 KIEWIT PLZ
+											CITY:			OMAHA
+											STATE:			NE
+											ZIP:			68131
+											BUSINESS PHONE:		4023461400
+</BUSINESS-ADDRESS>
+
+											MAIL ADDRESS:	
+												STREET 1:		1440 KIEWIT PLAZA
+												CITY:			OMAHA
+												STATE:			NE
+												ZIP:			68131
+</MAIL-ADDRESS>
+
+												FORMER COMPANY:	
+													FORMER CONFORMED NAME:	NBH INC
+													DATE OF NAME CHANGE:	19980810
+</FORMER-COMPANY>
+</REPORTING-OWNER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM-4
+<TEXT>
+
+<PAGE>
+
+
+
+                    U.S. SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+FORM 4                                                      OMB APPROVAL
+                                                   -----------------------------
+[_] Check this box if no longer                    OMB NUMBER:  3235-0287
+    subject to Section 16. Form 4                  Expires:  December 31, 2001
+    or Form 5 obligations may                      Estimated average burden
+    continue. SEE Instruction 1(b).                hours per response ...... 0.5
+                                                   -----------------------------
+
+
+                 STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP
+
+
+
+    Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934,
+      Section 17(a) of the Public Utility Holding Company Act of 1935 or
+              Section 30(f) of the Investment Company Act of 1940
+
+
+
+
+1. Name and Address of Reporting Person
+
+Berkshire Hathaway Inc.
+- --------------------------------------------------------------------------------
+  (Last)                             (First)                         (Middle)
+
+1440 Kiewit Plaza
+- --------------------------------------------------------------------------------
+                                    (Street)
+
+   Omaha                            Nebraska                          68131
+- --------------------------------------------------------------------------------
+  (City)                             (State)                          (Zip)
+
+Justin Industires, Inc. (JSTN)
+- --------------------------------------------------------------------------------
+2. Issuer Name and Ticker or Trading Symbol
+
+
+- --------------------------------------------------------------------------------
+3. IRS or Social Security Number of Reporting Person (Voluntary)
+
+
+- --------------------------------------------------------------------------------
+4. Statement for Month/Year July 2000
+
+
+- --------------------------------------------------------------------------------
+5. If Amendment, Date of Original   (Month/Year)
+
+
+- --------------------------------------------------------------------------------
+6. Relationship of Reporting Person(s) to Issuer
+       (Check all applicable)
+
+
+                  Director                   X     10% Owner
+           -----                           ------
+
+                  Officer (give                    Other (Specify
+           -----           title below)    ------         below)
+
+
+                   ----------------------------------
+
+
+- --------------------------------------------------------------------------------
+7. Individual or Joint/Group Filing Reporting (Check Applicable Line)
+
+       Form filed by One Reporting Person
+   ----
+
+    X  Form filed by More than One Reporting Person
+  -----
+- --------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                         Table 1 -- Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned
+
+1. Title of Security          2. Trans-   3. Trans-      4. Securities Acquired (A)    5. Amount of    6. Ownership  7. Nature
+   (Instr. 3)                    action      action         or Disposed of (D)            Securities      Form:         of Indirect
+                                 Date        Code                                         Beneficially    Direct        Beneficial
+                                                                                          Owned at        (D) or        Ownership
+                                            (Instr. 8)      (Instr. 3,4 and 5)            End of Month    Indirect
+
+                                (Month/   ------------   --------------------------       ------------    ---------    -----------
+
+                                 Day/      Code    V      Amount   (A) or    Price       (Instr. 3       (I)
+                                 Year)                             (D)                     and 4)        (Instr. 4)  (Instr. 4)
+- --------------------------    ----------  ------  ----   --------  ------    ------     -------------- ------------  -------------
+<S>                           <C>         <C>     <C>    <C>       <C>       <C>        <C>            <C>           <C>
+
+Common Stock                  7/25/2000    J/1/         24,737,927    A       $22.00       24,737,927        D
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+Common Stock                  8/1/2000    J/2/     V     1,053,702    A       $22.00       25,791,629/3/     D
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+
+- --------------------------    ----------  ------  ----  ----------  ------    ------     -------------- ------------  -------------
+</TABLE>
+
+Reminder: Report on a separate line for each class of securities beneficially
+          owned directly or indirectly.
+*If the form is filed by more than one reporting person, see instruction
+4(b)(v).
+                  (Print or Type Responses)
+
+
+                                                                SEC 1473 (8-92)
+
+                                  Page 1 of 3
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+
+                          Table II -- Derivative Securities Acquired, Disposed of, or Beneficially Owned
+                                  (e.g., puts, calls, warrants, options, convertible securities)
+
+1. Title of Derivative Security  2. Conversion    3. Transaction  4. Transaction   5. Number of Derivative      6. Date Exercisable
+  (Instr. 3)                        or Exercise      Date            Code              Securities Acquired (A)      and Expiration
+                                    Price of        (Month/Day/      (Instr. 8)        or Disposed of (D)           Date
+                                    Derivative       Year)                            (Instr. 3, 4, and 5)         (Month/Day/
+                                    Security                                                                        Year)
+                                                                  ---------------   --------------------------   -------------------
+                                                                    Code      V         (A)        (D)            Date    Expiration
+                                                                                                                  Exer-   Date
+                                                                                                                  cisable
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+<S>                              <C>              <C>             <C>       <C>     <C>             <C>          <C>      <C>
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+
+- -------------------------------  --------------   --------------  --------  -----   --------------- ----------   -------- ----------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+7. Title and Amount of    8. Price of Derivative  9. Number of Derivative     10. Ownership Form           11. Nature of Indirect
+   Underlying Securities     Security (Instr. 5)     Securities Beneficially      of Derivative Security:      Beneficial Ownership
+  (Instr. 3 and 4)                                   Owned at End of Month        Direct (D) or                (Instr. 4)
+                                                     (Instr. 4)                   Indirect (I) (Instr. 4)
+- ------------------------
+  Title      Amount or
+             Number of
+             Shares
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+<S>                       <C>                     <C>                         <C>                          <C>
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+
+- ------------------------  ----------------------  --------------------------  ---------------------------  ------------------------
+</TABLE>
+Explanation of Responses:
+
+1. Acquisition pursuant to a tender of shares in a change of control
+   transaction.
+
+2. Acquisition pursuant to a merger.
+
+3. As of Aug. 2, 2000.
+
+
+
+
+                                See attached signature page
+                              _______________________________    ______________
+                              **Signature of Reporting Person         Date
+
+
+**Intentional misstatements or omissions of facts constitute Federal Criminal
+  Violations.
+
+  See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+
+
+Note: File three copies of this Form, one of which must be manually signed. If
+      space provided is insufficient, see Instruction 6 for procedure.
+
+
+Reminder:  Report on a separate line for each class of securities beneficially
+owned directly or indirectly.
+
+*If this form is filed by more than one reporting person, see Instruction
+4(b)(v).
+
+                                                                 SEC 1474 (3-99)
+
+
+                                  Page 2 of 3
+
+<PAGE>
+
+                                                      Joint filer Information
+                                                      -----------------------
+<TABLE>
+- -----------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                    <C>
+Name:     Justin Industries, Inc.                                       Name:     Warren B. Buffett
+          (Successor to J Acquisition Corp.)                            Address:  1440 Kiewit Plaza
+Address:  2821 West 7th Street                                                    Omaha, Nebraska 68131
+          Fort Worth, Texas 76101                                       Designated Filer: Berkshire Hathaway Inc.
+Designated Filer: Berkshire Hathaway Inc.                               Issuer and Ticker Symbol:  Justin Industries, Inc. (JSTN)
+Issuer and Ticker Symbol: Justin Industries, Inc. (JSTN)                Statement of month/Year. July 2000
+Statement for Month/Year:  July 2000
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+
+                                                  Signatures of Reporting Persons
+                                                  -------------------------------
+
+Berkshire Hathaway Inc.
+
+/s/ Marc D. Hamburg                   Date: Aug. 10, 2000                 /s/ Warren E. Buffett                Date: Aug. 10, 2000
+- --------------------------------                                        ----------------------------
+By:  Marc D. Hamburg                                                    Warren E. Buffett
+Its: Vice President and Chief
+     Financial Officer
+
+
+Justin Industries, Inc.
+
+/s/ Richard J. Savitz                Date: Aug. 10, 2000
+- --------------------------------
+By: Richard J. Savitz
+Its: Senior Vice President and
+     Chief Financial Officer
+
+Reminder, Report on a separate line for each class of securities beneficially owned directly or indirectly.
+* If the form is filed by more than one reporting person, see Instruction 4(b)(v).
+</TABLE>
+
+                                  Page 3 of 3
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

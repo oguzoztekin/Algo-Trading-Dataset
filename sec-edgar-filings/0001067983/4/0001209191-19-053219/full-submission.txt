@@ -1,0 +1,264 @@
+<SEC-DOCUMENT>0001209191-19-053219.txt : 20191015
+<SEC-HEADER>0001209191-19-053219.hdr.sgml : 20191015
+<ACCEPTANCE-DATETIME>20191015190849
+ACCESSION NUMBER:		0001209191-19-053219
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191010
+FILED AS OF DATE:		20191015
+DATE AS OF CHANGE:		20191015
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06523
+		FILM NUMBER:		191151821
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06523
+		FILM NUMBER:		191151822
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				560906609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043868486
+
+	MAIL ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-10-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000070858</issuerCik>
+        <issuerName>BANK OF AMERICA CORP /DE/</issuerName>
+        <issuerTradingSymbol>BAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-10-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2240000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>947760000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series T 6% Non-Cumulative Perpetual Preferred Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>354</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On October 10, 2019, Berkshire Hathaway Inc. (&quot;Berkshire&quot;) sold its 81% interest in AU Holding Company, which was the direct owner of Continental Indemnity Company and California Insurance Company, with aggregate BAC common stock holdings between them of 2,240,000.  At the time of the AU Holding Company transaction, the market value of the shares of Bank of America Corporation (&quot;BAC&quot;) common stock held by Continental Indemnity Company and California Insurance Company was $63,728,000, based on the closing per share price of BAC common stock that day.  There was no consideration specifically allocated to the BAC common stock holdings of Continental Indemnity Company and California Insurance Company in connection with the AU Holding Company transaction.</footnote>
+        <footnote id="F2">947,760,000 of the total reported securities are owned directly by the following subsidiaries of Berkshire: AmGUARD Insurance Company (521,000), Atlanta International Insurance Company (560,000), Berkshire Hathaway Assurance Corporation (22,400,000), Berkshire Hathaway Homestate Insurance Company (11,900,000), Berkshire Hathaway International Insurance Ltd. (1,827,000), Berkshire Hathaway Life Insurance Company of Nebraska (6,630,000), Berkshire Hathaway Specialty Insurance Company (6,489,000), BH Finance LLC (140,000,000), BHG Life Insurance Company (1,614,000), Central States Indemnity Co. of Omaha (3,920,000), Columbia Insurance Company (25,028,000), Cypress Insurance Company (2,100,000), Finial Reinsurance Company (14,980,000), First Berkshire Life Insurance Company, (63,500),</footnote>
+        <footnote id="F3">Continued from footnote 2: Government Employees Insurance Company (229,600,000), GEICO Indemnity Company (81,200,000), GEICO Marine Insurance Co. (980,000), General Re Life Corporation (1,575,000), General Reinsurance Corporation (14,000,000), General Star Indemnity Company (5,040,000), General Star National Insurance Company (1,960,000), Genesis Insurance Company (176,400), The Medical Protective Company (10,396,000), Mount Vernon Fire Insurance Company (7,000,000), National Fire &amp; Marine Insurance Company (17,275,000), National Indemnity Company (292,391,100), National Liability &amp; Fire Insurance Company (28,000,000), National Indemnity Company of Mid America (2,380,000), National Indemnity Company of the South (2,800,000), NorGUARD Insurance Company (868,000), NRG America Holding Company (5,600,000),</footnote>
+        <footnote id="F4">Continued from footnote 3: Oak River Insurance Company (4,200,000), Old United Casualty Company (443,000), Princeton Insurance Company (1,043,000), United States Liability Insurance Company (2,800,000). In order to avoid double counting, shares of Common Stock reported as being owned by each of these subsidiaries only reflect shares that are owned directly by such subsidiary, and do not reflect any shares that such subsidiary may be deemed to beneficially own by virtue of ownership or control of any other subsidiary otherwise reported in this Form 4.</footnote>
+        <footnote id="F5">As Berkshire is in the chain of ownership of each subsidiary listed, it may be deemed presently to both beneficially own and have a pecuniary interest in all shares presently directly owned by such subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares presently owned by each of these subsidiaries. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F6">354 of the total reported securities are owned directly by the following subsidiaries of Berkshire: Berkshire Hathaway Assurance Corporation (11), Berkshire Hathaway Homestate Insurance Company (6), BH Finance LLC (72), Central States Indemnity Company of Omaha (2), Cypress Insurance Company (1), Finial Reinsurance Company (7), GEICO Indemnity Company (42), General Reinsurance Corporation (7), General Star Indemnity Company (2), General Star National Insurance Company (1), Government Employees Insurance Company (119), Mount Vernon Fire Insurance Company (3), National Indemnity Company (60), National Indemnity Company of Mid-America (1), National Indemnity Company of the South (1), National Liability and Fire Insurance Company (14), NRG America Holding Company (2), Oak River Insurance Company (2), United States Liability Insurance Company (1).</footnote>
+        <footnote id="F7">Continued from Footnote 6: The one share of Series T 6% Non-Cumulative Perpetual Preferred Stock previously held by California Insurance Company was transferred to National Indemnity Company. In order to avoid double counting, shares of Series T 6% Non-Cumulative Perpetual Preferred Stock reported as being owned by each of these subsidiaries only reflect shares that are owned directly by such subsidiary, and do not reflect any shares that such subsidiary may be deemed to beneficially own by virtue of ownership or control of any other subsidiary otherwise reported in this Form 4.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett, on behalf of himself and each other reporting person hereunder</signatureName>
+        <signatureDate>2019-10-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

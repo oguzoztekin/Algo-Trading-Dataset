@@ -1,0 +1,424 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RHBDVI/U2nVR4e5R0RCs7C32XlVsKjM8zTrMOo5qEyoJTm6Nfx0JvUbfZqy2OaEx
+ H5HMXiVbtDNw9riznLg06A==
+
+<SEC-DOCUMENT>0001181431-04-033554.txt : 20040701
+<SEC-HEADER>0001181431-04-033554.hdr.sgml : 20040701
+<ACCEPTANCE-DATETIME>20040701213623
+ACCESSION NUMBER:		0001181431-04-033554
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040629
+FILED AS OF DATE:		20040701
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		04896876
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KIEWIT PLZ 3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GENERAL RE CORP
+		CENTRAL INDEX KEY:			0000317745
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		04896875
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FINANCIAL CENTRE P O BOX 10351
+		STREET 2:		695 EAST MAIN STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06904-2351
+		BUSINESS PHONE:		2033285000
+
+	MAIL ADDRESS:	
+		STREET 1:		FINANCIAL CENTRE
+		STREET 2:		P O BOX 10350
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06904-2350
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08993
+		FILM NUMBER:		04896877
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1440 KIEWIT PLZ
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		1440 KIEWIT PLAZA
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WHITE MOUNTAINS INSURANCE GROUP LTD
+		CENTRAL INDEX KEY:			0000776867
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				942708455
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 SOUTH MAIN ST
+		CITY:			HANOVER
+		STATE:			NH
+		ZIP:			03755
+		BUSINESS PHONE:		603 640 2200
+
+	MAIL ADDRESS:	
+		STREET 1:		80 SOUTH MAIN STREET
+		CITY:			HANOVER
+		STATE:			NH
+		ZIP:			03755
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WHITE MOUNTAINS INSURANCE GROUP INC
+		DATE OF NAME CHANGE:	19990603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FUND AMERICAN ENTERPRISES HOLDINGS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FUND AMERICAN COMPANIES INC
+		DATE OF NAME CHANGE:	19920701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd47039.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0202</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2004-06-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000776867</issuerCik>
+        <issuerName>WHITE MOUNTAINS INSURANCE GROUP LTD</issuerName>
+        <issuerTradingSymbol>WTM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1440 KIEWIT PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000317745</rptOwnerCik>
+            <rptOwnerName>GENERAL RE CORP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>BERKSHIRE HATHAWAY INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1440 KIEWIT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares, $1.00 par value</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2004-06-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1724200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>170.51</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1724200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>170.51</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2004-06-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1724200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>175.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2004-06-29</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2008-06-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1724200</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities include (i) 544,285 common shares issuable upon the exercise of Series B Warrants pursuant to the approval of White Mountain's shareholders on August 23, 2001 and (ii) 9,915 common shares issuable upon the exercise of the Series A Warrants and Series B Warrants due to an issuance of convertible preference shares and common shares by White Mountains on October 24, 2002.</footnote>
+        <footnote id="F2">These securities are owned directly by General Reinsurance Corporation, which is a wholly-owned subsidiary of General Re Corporation, which is a wholly-owned subsidiary of Berkshire Hathaway Inc.  General Re Corporation and Berkshire Hathaway Inc. are indirect beneficial owners of the reported securities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc D. Hamburg, Chief Financial Officer on behalf of Berkshire Hathaway Inc.</signatureName>
+        <signatureDate>2004-07-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>2
+<FILENAME>rrd38409_43255.htm
+<DESCRIPTION>JOINT FILER INFORMATION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+rrd38409_43255.html
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+Joint Filer Information                                     Exhibit 99
+
+Name:  Warren E. Buffett
+
+Address:  Berkshire Hathaway Inc.
+	  1440 Kiewit Plaza
+	  Omaha, Nebraska  68131
+
+Designated Filer: Berkshire Hathaway Inc.
+
+Issuer & Ticker
+Symbol:  White Mountains Insurance Group,
+Ltd.
+
+Date of Event
+	Requiring Statement: June 29, 2004
+
+
+Signature:    /s/ Warren E. Buffett
+                  Warren E. Buffett
+
+
+Name:   General Re Corporation
+
+Address:   Berkshire Hathaway Inc.
+           1440 Kiewit Plaza
+           Omaha, Nebraska  68131
+
+Designated Filer: Berkshire Hathaway Inc.
+
+Issuer & Ticker
+Symbol: White Mountains Insurance Group,
+Ltd.
+
+Date of Event
+	Requiring Statement: June 29, 2004
+
+
+Signature:    /s/ William G. Gasdaska
+		  Senior Vice President and CFO
+
+
+Name:   General Reinsurance Corporation
+
+Address:   Berkshire Hathaway Inc.
+           1440 Kiewit Plaza
+           Omaha, Nebraska  68131
+
+Designated Filer: Berkshire Hathaway Inc.
+
+Issuer & Ticker
+Symbol: White Mountains Insurance Group,
+Ltd.
+
+Date of Event
+	Requiring Statement: June 29, 2004
+
+
+Signature:    /s/ Timothy T. McCaffrey
+		  Secretary
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

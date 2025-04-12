@@ -1,0 +1,349 @@
+<SEC-DOCUMENT>0001209191-17-026722.txt : 20170412
+<SEC-HEADER>0001209191-17-026722.hdr.sgml : 20170412
+<ACCEPTANCE-DATETIME>20170412181517
+ACCESSION NUMBER:		0001209191-17-026722
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170410
+FILED AS OF DATE:		20170412
+DATE AS OF CHANGE:		20170412
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLS FARGO & COMPANY/MN
+		CENTRAL INDEX KEY:			0000072971
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				410449260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+		BUSINESS PHONE:		6126671234
+
+	MAIL ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLS FARGO & CO/MN
+		DATE OF NAME CHANGE:	19981103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORWEST CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST BANCORPORATION
+		DATE OF NAME CHANGE:	19830516
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BUFFETT WARREN E
+		CENTRAL INDEX KEY:			0000315090
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02979
+		FILM NUMBER:		17758856
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		402-346-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM ST
+		STREET 2:		STE 1440
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERKSHIRE HATHAWAY INC
+		CENTRAL INDEX KEY:			0001067983
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02979
+		FILM NUMBER:		17758857
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+		BUSINESS PHONE:		4023461400
+
+	MAIL ADDRESS:	
+		STREET 1:		3555 FARNAM STREET
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68131
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NBH INC
+		DATE OF NAME CHANGE:	19980810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2017-04-10</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000072971</issuerCik>
+        <issuerName>WELLS FARGO &amp; COMPANY/MN</issuerName>
+        <issuerTradingSymbol>WFC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067983</rptOwnerCik>
+            <rptOwnerName>BERKSHIRE HATHAWAY INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315090</rptOwnerCik>
+            <rptOwnerName>BUFFETT WARREN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3555 FARNAM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OMAHA</rptOwnerCity>
+            <rptOwnerState>NE</rptOwnerState>
+            <rptOwnerZipCode>68131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2009000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-04-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1305528</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.7113</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>502993942</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Please see footnotes.</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-04-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3497733</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>53.7632</value>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>499496209</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Please see footnotes.</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-04-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2331186</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>53.3839</value>
+                    <footnoteId id="F8"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>497165023</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Please see footnotes.</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are owned directly by Warren E. Buffett, who is a reporting person hereunder.</footnote>
+        <footnote id="F2">The reported price in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $54.32 to $55.24, inclusive.  The reporting persons undertake to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (2), (7) and (8) to this Form 4.</footnote>
+        <footnote id="F3">497,165,023 of the total reported securities are owned directly by the following subsidiaries of Berkshire Hathaway Inc. (&quot;Berkshire&quot;): AmGUARD Insurance Company (229,500), Atlanta International Insurance Company (57,000), Berkshire Hathaway Assurance Corporation (3,033,500), Berkshire Hathaway Direct Insurance Company (320,000), Berkshire Hathaway Homestate Insurance Company (16,450,000), Berkshire Hathaway Life Insurance Company of Nebraska (5,250,000), Berkshire Hathaway Specialty Insurance Company (15,146,100), BH Finance LLC (6,812,857), Brilliant National Services, Inc. (194,000), California Insurance Company (575,000), Central States Indemnity Co. of Omaha (1,485,000), Columbia Insurance Company (74,533,819), Commercial Casualty Insurance Company (190,000), Continental Indemnity Company (126,000), Cypress Insurance Company (820,000), EastGUARD Insurance Company (97,000), Finial Reinsurance Company (1,160,000), First Berkshire Hathaway Life Insurance Company (53,500),</footnote>
+        <footnote id="F4">Continued from footnote 3: Government Employees Insurance Company (26,646,700), GEICO Advantage Insurance Company (350,000), GEICO Casualty Company (1,776,000), GEICO Choice Insurance Company (350,000), GEICO Indemnity Company (6,596,500), GEICO Marine Insurance Company (186,000), GEICO Secure Insurance Company (350,000), General Re Life Corporation (2,165,000), General Reinsurance Corporation (20,715,200), General Star Indemnity Company (1,432,000), General Star National Insurance Company (113,000), Genesis Insurance Company (170,000), The Medical Protective Company (9,272,000), Mount Vernon Fire Insurance Company (1,722,600), National Fire &amp; Marine Insurance Company (55,776,330), National Indemnity Company (229,158,757), National Liability &amp; Fire Insurance Company (2,788,000), Nebraska Furniture Mart, Inc. (1,609,720), National Indemnity Company of Mid America (404,000), National Indemnity Company of the South (460,000), NorGUARD Insurance Company (485,000),</footnote>
+        <footnote id="F5">Continued from footnote 4: Oak River Insurance Company (383,000), Old United Casualty Company (778,000), Precision Steel Warehouse, Inc. (800,000), Princeton Insurance Company (995,000), Radnor Specialty Insurance Company (48,000), Redwood Fire and Casualty Insurance Company (1,475,940), The Fechheimer Brothers Company (1,700,000), United States Liability Insurance Company (1,030,000), U.S. Underwriters Insurance Company (275,000), and WestGUARD Insurance Company (620,000). In order to avoid double counting, shares of Common Stock reported as being owned by each of these subsidiaries only reflect shares that are owned directly by such subsidiary, and do not reflect any shares that such subsidiary may be deemed to beneficially own by virtue of ownership or control of any other subsidiary otherwise reported in this Form 4.</footnote>
+        <footnote id="F6">Continued from footnote 5: As Berkshire is in the chain of ownership of each subsidiary listed above, it may be deemed presently to both beneficially own and have a pecuniary interest in all shares of Common Stock presently directly owned by such subsidiaries. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares of Common Stock presently owned by each of these subsidiaries. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F7">The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $53.265 to $54.25, inclusive.</footnote>
+        <footnote id="F8">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $53.055 to $54.00, inclusive</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Warren E. Buffett, on behalf of himself and each other reporting person hereunder</signatureName>
+        <signatureDate>2017-04-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
